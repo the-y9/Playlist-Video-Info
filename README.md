@@ -23,6 +23,7 @@ If these packages are not installed, you can install them using:
 pip show pytube || pip install pytube
 pip install tqdm
 ```
+Note - May use `pytubefix` instead of `pytube`
 
 ## Usage
 
